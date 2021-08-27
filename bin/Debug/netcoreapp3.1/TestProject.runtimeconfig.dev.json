@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\teleg\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\teleg\\.nuget\\packages"
+    ]
+  }
+}
